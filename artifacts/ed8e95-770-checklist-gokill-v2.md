@@ -27,5 +27,6 @@ Competition/overlap is **secondary and non-blocking** at present (existing attem
 
 ## Fallback lane recommendation (follow-on)
 Recommend immediate follow-on execution lane: **Archestra #1301**
+- Algora listing: https://algora.io/bounties
 - Canonical issue: https://github.com/archestra-ai/archestra/issues/1301
 - Action on approval: post maintainer-facing intent + begin MVP slice scoped to acceptance bullets.
