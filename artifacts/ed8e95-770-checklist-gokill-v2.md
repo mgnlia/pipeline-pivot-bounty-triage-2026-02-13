@@ -10,7 +10,7 @@
 ## GO/KILL decision (language correction)
 **Decision: KILL** active #770 bounty pursuit.
 
-### Primary reason (explicit)
+### Primary reason (explicit) (ROI-first)
 **Poor ROI vs implementation scope** for a **$150** bounty.
 
 Expected implementation surface spans 5 repos/components:
@@ -22,7 +22,7 @@ Expected implementation surface spans 5 repos/components:
 
 Plus regression/snapshot validation and docs/example updates.
 
-### Secondary reason
+### Secondary reason (Overlap-secondary)
 Competition/overlap is **secondary and non-blocking** at present (existing attempts are closed without merge/payment), but still increases uncertainty and expected coordination overhead.
 
 ## Fallback lane recommendation (follow-on)
