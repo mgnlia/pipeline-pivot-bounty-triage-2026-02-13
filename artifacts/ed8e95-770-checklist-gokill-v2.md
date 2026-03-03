@@ -1,5 +1,11 @@
 # ed8e95DjWeIzpG-RwCaWt — tscircuit #770 checklist + GO/KILL v2
 
+## Fallback target (immediate)
+**GO fallback:** Archestra issue #1301 ($900)
+- Canonical issue: https://github.com/archestra-ai/archestra/issues/1301
+- Action on approval: post maintainer-facing intent + begin MVP slice scoped to acceptance bullets
+
+
 ## Evidence links (required)
 - Claim/intent comment: https://github.com/tscircuit/tscircuit/issues/770#issuecomment-3293175683
 - Overlap evidence A: https://github.com/tscircuit/tscircuit/pull/814
