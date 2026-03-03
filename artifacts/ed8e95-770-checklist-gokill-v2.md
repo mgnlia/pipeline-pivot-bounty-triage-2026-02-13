@@ -1,4 +1,4 @@
-# ed8e95DjWeIzpG-RwCaWt — tscircuit #770 checklist + GO/KILL v2
+# ed8e95DjWeIzpG-RwCaWt — tscircuit #770 checklist + GO/KILL v2 (ROI-first, overlap-secondary)
 
 ## Evidence links (required)
 - Claim/intent comment: https://github.com/tscircuit/tscircuit/issues/770#issuecomment-3293175683
@@ -8,6 +8,9 @@
 - GO/KILL memo: https://github.com/mgnlia/pipeline-pivot-bounty-triage-2026-02-13/issues/2
 
 ## GO/KILL decision (language correction)
+
+The primary reason to KILL active implementation pursuit on tscircuit/tscircuit#770 is ROI, not merely overlap.
+
 **Decision: KILL** active #770 bounty pursuit.
 
 ### Primary reason (explicit)
