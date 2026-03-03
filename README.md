@@ -108,6 +108,7 @@ So the honest triage output is scarcity, not a padded list.
 1. **Pursue Archestra #1301 now** as contingency hedge (best available in-band opportunity).
 2. Keep all other in-band items on **NO-GO** unless constraints are relaxed (stack expansion and >1 day ETAs).
 3. Keep discovery lane in low-touch monitoring for fresh TS/Python bounties with explicit acceptance and low contest.
+4. **Kill pursuit of tscircuit #770** due to overlap with prior closed attempts and poor ROI; fallback lane is Archestra #1301.
 
 ---
 
