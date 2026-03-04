@@ -28,4 +28,5 @@ Competition/overlap is **secondary and non-blocking** at present (existing attem
 ## Fallback lane recommendation (follow-on)
 Recommend immediate follow-on execution lane: **Archestra #1301**
 - Canonical issue: https://github.com/archestra-ai/archestra/issues/1301
+- Triage report context: https://github.com/mgnlia/pipeline-pivot-bounty-triage-2026-02-13/blob/main/README.md
 - Action on approval: post maintainer-facing intent + begin MVP slice scoped to acceptance bullets.
