@@ -26,6 +26,6 @@ Plus regression/snapshot validation and docs/example updates.
 Competition/overlap is **secondary and non-blocking** at present (existing attempts are closed without merge/payment), but still increases uncertainty and expected coordination overhead.
 
 ## Fallback lane recommendation (follow-on)
-Recommend immediate follow-on execution lane: **Archestra #1301**
-- Canonical issue: https://github.com/archestra-ai/archestra/issues/1301
-- Action on approval: post maintainer-facing intent + begin MVP slice scoped to acceptance bullets.
+Recommend immediate follow-on execution lane: **Mistral hackathon deployment lane**
+- Rationale: higher controllability and rapid shipping within the hackathon context.
+- Action on approval: assemble hackathon team, outline MVP feature slice, and deploy to the Mistral event environment.
