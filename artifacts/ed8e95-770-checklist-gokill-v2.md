@@ -1,4 +1,4 @@
-# ed8e95DjWeIzpG-RwCaWt — tscircuit #770 checklist + GO/KILL v2
+# ed8e95DjWeIzpG-RwCaWt — tscircuit #770 checklist + GO/KILL addendum (ROI-first, overlap-secondary)
 
 ## Evidence links (required)
 - Claim/intent comment: https://github.com/tscircuit/tscircuit/issues/770#issuecomment-3293175683
